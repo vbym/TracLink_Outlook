@@ -207,14 +207,12 @@
   -->
   <ItemGroup>
     <AppDesigner Include="My Project\" />
-    <Compile Include="GlobalSuppressions.vb" />
     <Compile Include="ProjectForm.Designer.vb">
       <DependentUpon>ProjectForm.vb</DependentUpon>
     </Compile>
     <Compile Include="ProjectForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Settings.vb" />
     <Compile Include="TracLink.vb" />
     <Compile Include="TracLinkRibbon.Designer.vb">
       <DependentUpon>TracLinkRibbon.vb</DependentUpon>
